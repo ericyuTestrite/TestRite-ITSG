@@ -9,7 +9,7 @@ Info Technology Study Group
 |  	    | Name	|App Name | Github Repository Hyper link|
 |---	|---	|---	 |---	 |
 | 1  	| Eric 	| SupplyChainMonitor |https://github.com/ericyuTestrite/Testrite-scm  	|
-| 2  	|   	|   	|  	|
+| 2  	| Pogi  | King Of Popular gathering	|https://github.com/PogiLin/TestRite-KPG 	|
 | 3  	|   	|   	|  	|
 | 4  	|   	|   	|  	|
 | 5  	|   	|   	|  	|
