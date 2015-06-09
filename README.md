@@ -11,7 +11,7 @@ Info Technology Study Group
 | 1  	| Eric 	| SupplyChainMonitor |https://github.com/ericyuTestrite/Testrite-scm  	|
 | 2  	| Pogi  | King Of Popular gathering	|https://github.com/PogiLin/TestRite-KPG 	|
 | 3  	| Jack	| Multiplayer Accounting | https://github.com/lowenyend/Testrite-MA |
-| 4  	|   	|   	|  	|
+| 4  	| John  | GTA5 Vehicles Info	| https://github.com/GPXCAT/GTA5Vehicles	|
 | 5  	|   	|   	|  	|
 | 6  	|   	|   	|  	|
 | 7  	|   	|   	|  	|
