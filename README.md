@@ -12,7 +12,7 @@ Info Technology Study Group
 | 2  	| Pogi  | King Of Popular gathering	|https://github.com/PogiLin/TestRite-KPG 	|
 | 3  	| Jack	| Multiplayer Accounting | https://github.com/lowenyend/Testrite-MA |
 | 4  	| John  | GTA5 Vehicles Info	| https://github.com/GPXCAT/GTA5Vehicles	|
-| 5  	|   	|   	|  	|
+| 5  	| Max  	| GO ON A DIET 	| https://github.com/chinwhou/TESTRITE-GOAD 	|
 | 6  	|   	|   	|  	|
 | 7  	|   	|   	|  	|
 | 8  	|   	|   	|  	|
