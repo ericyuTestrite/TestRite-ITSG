@@ -13,7 +13,7 @@ Info Technology Study Group
 | 3  	| Jack	| Multiplayer Accounting | https://github.com/lowenyend/Testrite-MA |
 | 4  	| John  | GTA5 Vehicles Info	| https://github.com/GPXCAT/GTA5Vehicles	|
 | 5  	| Max  	| GO ON A DIET 	| https://github.com/chinwhou/TESTRITE-GOAD 	|
-| 6  	|   	|   	|  	|
+| 6  	| Louise | PET-SALON 	| https://github.com/Louise614/pet-salon |
 | 7  	|   	|   	|  	|
 | 8  	|   	|   	|  	|
 | 9  	|   	|   	|  	|
