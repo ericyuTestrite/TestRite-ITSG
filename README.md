@@ -14,7 +14,7 @@ Info Technology Study Group
 | 4  	| John  | GTA5 Vehicles Info	| https://github.com/GPXCAT/GTA5Vehicles	|
 | 5  	| Max  	| GO ON A DIET 	| https://github.com/chinwhou/TESTRITE-GOAD 	|
 | 6  	| Louise | PET-SALON 	| https://github.com/Louise614/pet-salon |
-| 7  	|   	|   	|  	|
+| 7  	| Ken  	| Warehouse Monitor	|https://github.com/ken1106/TestRite-WM  	|
 | 8  	|   	|   	|  	|
 | 9  	|   	|   	|  	|
 | 10	|   	|   	|  	|
