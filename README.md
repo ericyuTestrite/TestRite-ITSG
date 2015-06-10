@@ -15,7 +15,7 @@ Info Technology Study Group
 | 5  	| Max  	| GO ON A DIET 	| https://github.com/chinwhou/TESTRITE-GOAD 	|
 | 6  	| Louise | PET-SALON 	| https://github.com/Louise614/pet-salon |
 | 7  	| Ken  	| Warehouse Monitor	|https://github.com/ken1106/TestRite-WM  	|
-| 8  	|   	|   	|  	|
+| 8  	| Lewis	| Server-Status-Monitor | https://github.com/borak0310/Server-Status-Monitor |
 | 9  	|   	|   	|  	|
 | 10	|   	|   	|  	|
 | 11	|   	|   	|  	|
