@@ -18,7 +18,7 @@ Info Technology Study Group
 | 8  	| Lewis	| Server-Status-Monitor | https://github.com/borak0310/Server-Status-Monitor |
 | 9  	| Bennet| Offline QC Report	|https://github.com/bennetchen/Testrite-QCReport |
 | 10	| Sky  	|  HappySale 	| https://github.com/sky00000/HappySale 	|
-| 11	|   	|   	|  	|
+| 11	| Miguel|Baby Dairy App| https://github.com/Miguel-Lee/Baby-Diary-App	|
 | 12 	|   	|   	|  	|
 | 13 	|   	|   	|  	|
 | 14 	|   	|   	|  	|
