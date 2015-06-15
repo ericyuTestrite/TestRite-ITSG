@@ -17,7 +17,7 @@ Info Technology Study Group
 | 7  	| Ken  	| Warehouse Monitor	|https://github.com/ken1106/TestRite-WM  	|
 | 8  	| Lewis	| Server-Status-Monitor | https://github.com/borak0310/Server-Status-Monitor |
 | 9  	| Bennet| Offline QC Report	|https://github.com/bennetchen/Testrite-QCReport |
-| 10	|   	|   	|  	|
+| 10	| Sky  	|  HappySale 	| https://github.com/sky00000/HappySale 	|
 | 11	|   	|   	|  	|
 | 12 	|   	|   	|  	|
 | 13 	|   	|   	|  	|
