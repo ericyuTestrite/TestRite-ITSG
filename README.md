@@ -19,6 +19,6 @@ Info Technology Study Group
 | 9  	| Bennet| Offline QC Report	|https://github.com/bennetchen/Testrite-QCReport |
 | 10	| Sky  	|  HappySale 	| https://github.com/sky00000/HappySale 	|
 | 11	| Miguel|Baby Diary App| https://github.com/Miguel-Lee/Baby-Diary-App	|
-| 12 	|   	|   	|  	|
+| 12 	| Elmaz	| LunchBox	| https://github.com/elmaz/LunchBox	|
 | 13 	|   	|   	|  	|
 | 14 	|   	|   	|  	|
