@@ -20,4 +20,4 @@ Info Technology Study Group
 | 11	| Miguel|Baby Diary App| https://github.com/Miguel-Lee/Baby-Diary-App	|
 | 12 	| Elmaz	| LunchBox	| https://github.com/elmaz/LunchBox	|
 | 13 	|Yahsiu|ballot|https://github.com/yahsiu/ballot|
-| 14 	|   	|   	|  	|
+| 14 	|Joseph|Idioms|https://github.com/Josephchung2015/Idioms|
