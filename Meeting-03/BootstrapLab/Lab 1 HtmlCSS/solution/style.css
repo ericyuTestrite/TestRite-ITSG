@@ -1,0 +1,41 @@
+body {
+	background-color: white;
+}
+
+#header {
+	background-color: blue;
+	color: white;
+	text-align: center;
+}
+
+#container{
+	margin: 20px auto 20px auto;
+	width: 800px;
+	padding: 20px 20px 20px 20px;
+}
+
+#nav {
+	width: 80px;
+	float: right;
+}
+
+#main {
+	width: 600px;
+	float: left;
+}
+
+#footer {
+	background-color: blue;
+	color: white;
+	text-align: right;
+	padding: 20px 10px;
+	clear: both;
+}
+
+.div1 > p {
+  color: #F00;
+  }
+.div2 p {
+  color: #F00;
+}
+
