@@ -1,7 +1,7 @@
 # TestRite-ITSG
 Info Technology Study Group
 
-開會的投影片請自行下載, 下次開會時間是 7/14 (二) 18:30
+開會的投影片請自行下載, 下次開會時間是 7/21 (二) 18:30
 預計會請 Elmaz/Ken 分享一下 NoSql 最紅的 MongoDB 及 Oauth2 的基本需求及概念.
 
 請大家自已建立一個 Github Public Repository, 並把發想的App功能填到 README.md 裡面, 並把進行中的程式Push 到 Github Repository。(撰寫 Markdown 只需要記事本, 這邊有編輯器 https://stackedit.io/editor)
