@@ -1,8 +1,8 @@
 # TestRite-ITSG
 Info Technology Study Group
 
-開會的投影片請自行下載, 下次開會時間是 7/21 (二) 18:30
-預計會請 Elmaz/Ken 分享一下 NoSql 最紅的 MongoDB 及 Oauth2 的基本需求及概念.
+開會的投影片請自行下載, 下次開會時間是 8/4 (二) 18:30,
+預計將會把 Bootstrap3 RWD Framework 的基本概念及使用方式進行介紹.
 
 請大家自已建立一個 Github Public Repository, 並把發想的App功能填到 README.md 裡面, 並把進行中的程式Push 到 Github Repository。(撰寫 Markdown 只需要記事本, 這邊有編輯器 https://stackedit.io/editor)
 
@@ -23,3 +23,4 @@ Info Technology Study Group
 | 13 	|Yahsiu|ballot|https://github.com/yahsiu/ballot|
 | 14 	|Joseph|Idioms|https://github.com/Josephchung2015/Idioms|
 | 15  |Xubin |CN_HHT|https://github.com/gpxb0626/CNHHTAPP|
+
