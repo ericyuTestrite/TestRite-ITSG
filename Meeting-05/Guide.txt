@@ -16,9 +16,9 @@ Part2 CSS (Lab)
 	 2) table, table-hover
 	 3) viewport
  3. Bootstrap form
- 
+ 4. 向量 icon
+
 Part3 Component
- 1. 向量 icon
  2. DropDown Button
  3. Navbar (Lab3 Customized your navbar)
  4. Badge
