@@ -1,8 +1,9 @@
 # TestRite-ITSG
 Info Technology Study Group
 
-開會的投影片請自行下載, 下次開會時間是 8/4 (二) 18:30,
-預計將會把 Bootstrap3 RWD Framework 的基本概念及使用方式進行介紹.
+開會的投影片請自行下載, 下次開會時間是 9/2 (二) 18:30,
+請大家先預習一下 Code School  的 Shaping Up With Angular JS 至 Level 2.
+https://www.codeschool.com/courses/shaping-up-with-angular-js
 
 |  	    | 日期	|內容|
 |---	|---	|---	 |
@@ -11,6 +12,7 @@ Info Technology Study Group
 | Meeting 03  	| 6/30  | Hybrid Moible 開發環境配置, HTML5/CSS 說明|
 | Meeting 04  	| 7/21	| NoSQL MongoDB 及 OAuth2 說明 |
 | Meeting 05  	| 8/4  | Bootstrap Labs (Layout, Form Basics, Navbar, CSS Customized)|
+| Meeting 06  	| 8/18  | 作品分享, Firebase 介紹, AngularJS 初步(CodeSchool)|
 
 請大家自已建立一個 Github Public Repository, 並把發想的App功能填到 README.md 裡面, 並把進行中的程式Push 到 Github Repository。(撰寫 Markdown 只需要記事本, 這邊有編輯器 https://stackedit.io/editor)
 
