@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html ng-app="myMeeting">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="./bootstrap-3.3.5-dist/css/bootstrap.css" />
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.3/angular.min.js"></script>
+<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+<script src="./app.js"></script>
+
+<body ng-controller="MyController as controller">
+
+<h1>My First JavaScript</h1>
+
+<button class="btn btn-primary" type="button"
+        ng-click="controller.display()">
+Click me to display Date and Time.</button>
+
+<p>{{controller.data.meetingDate | date:'short'}}</p>
+<p>{{meetingName | uppercase}}</p>
+<p>{{meetingContent }}</p>
+<p>{{attendees}}</p>
+<p>{{status}}</p>
+<button class="btn btn-primary"  type="button" ng-click="controller.cancel()">Cancel</button>
+
+</body>
+</html>
