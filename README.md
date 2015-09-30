@@ -1,8 +1,6 @@
 # TestRite-ITSG
 Info Technology Study Group
 
-開會的投影片請自行下載, 下次開會時間是 9/15 (二) 18:30
-
 |  	    | 日期	|內容|
 |---	|---	|---	 |
 | Meeting 01  	| 6/2 	| Mobile Application 技術架構  	|
@@ -12,6 +10,8 @@ Info Technology Study Group
 | Meeting 05  	| 8/4  | Bootstrap Labs (Layout, Form Basics, Navbar, CSS Customized)|
 | Meeting 06  	| 8/18  | 作品分享, Firebase 介紹, AngularJS 初步(CodeSchool)|
 | Meeting 07  	| 9/2  | JavaScript, JSON, AngularJS, jsHint for Sublime Text|
+| Meeting 08  	| 9/17  | Push, Ionic, 找幫手 App 討論|
+| Meeting 09  	| 10/1  | 找幫手 App 討論|
 
 請大家自已建立一個 Github Public Repository, 並把發想的App功能填到 README.md 裡面, 並把進行中的程式Push 到 Github Repository。(撰寫 Markdown 只需要記事本, 這邊有編輯器 https://stackedit.io/editor)
 
